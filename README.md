@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/jolene/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Jolene](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jolene/) |
+| **Get License** | [Get a Licensing Quote for Jolene](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jolene/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `95716963b7e2918af6f16281148bb7c296e3d133a3d1e2080f3329404702e734` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
